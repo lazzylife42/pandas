@@ -1,0 +1,301 @@
+product_id,product_name,category
+101,Product A0,Books
+102,Product B1,Home Appliances
+103,Product C2,Electronics
+104,Product D3,Groceries
+105,Product E4,Home Appliances
+106,Product F5,Clothing
+107,Product G6,Groceries
+108,Product H7,Electronics
+109,Product I8,Toys
+110,Product J9,Clothing
+111,Product K10,Toys
+112,Product L11,Home Appliances
+113,Product M12,Electronics
+114,Product N13,Books
+115,Product O14,Toys
+116,Product P15,Groceries
+117,Product Q16,Sports
+118,Product R17,Home Appliances
+119,Product S18,Groceries
+120,Product T19,Sports
+121,Product U20,Groceries
+122,Product V21,Sports
+123,Product W22,Books
+124,Product X23,Toys
+125,Product Y24,Home Appliances
+126,Product Z25,Groceries
+127,Product A26,Toys
+128,Product B27,Groceries
+129,Product C28,Home Appliances
+130,Product D29,Sports
+131,Product E30,Electronics
+132,Product F31,Sports
+133,Product G32,Groceries
+134,Product H33,Home Appliances
+135,Product I34,Books
+136,Product J35,Clothing
+137,Product K36,Clothing
+138,Product L37,Home Appliances
+139,Product M38,Electronics
+140,Product N39,Toys
+141,Product O40,Books
+142,Product P41,Toys
+143,Product Q42,Sports
+144,Product R43,Groceries
+145,Product S44,Clothing
+146,Product T45,Clothing
+147,Product U46,Groceries
+148,Product V47,Electronics
+149,Product W48,Electronics
+150,Product X49,Books
+151,Product Y50,Books
+152,Product Z51,Books
+153,Product A52,Groceries
+154,Product B53,Electronics
+155,Product C54,Electronics
+156,Product D55,Toys
+157,Product E56,Books
+158,Product F57,Sports
+159,Product G58,Sports
+160,Product H59,Groceries
+161,Product I60,Clothing
+162,Product J61,Electronics
+163,Product K62,Books
+164,Product L63,Electronics
+165,Product M64,Clothing
+166,Product N65,Books
+167,Product O66,Books
+168,Product P67,Groceries
+169,Product Q68,Books
+170,Product R69,Electronics
+171,Product S70,Toys
+172,Product T71,Toys
+173,Product U72,Electronics
+174,Product V73,Groceries
+175,Product W74,Groceries
+176,Product X75,Books
+177,Product Y76,Home Appliances
+178,Product Z77,Books
+179,Product A78,Electronics
+180,Product B79,Groceries
+181,Product C80,Home Appliances
+182,Product D81,Books
+183,Product E82,Sports
+184,Product F83,Clothing
+185,Product G84,Home Appliances
+186,Product H85,Electronics
+187,Product I86,Groceries
+188,Product J87,Groceries
+189,Product K88,Groceries
+190,Product L89,Toys
+191,Product M90,Electronics
+192,Product N91,Sports
+193,Product O92,Groceries
+194,Product P93,Toys
+195,Product Q94,Sports
+196,Product R95,Books
+197,Product S96,Electronics
+198,Product T97,Sports
+199,Product U98,Clothing
+200,Product V99,Electronics
+201,Product W100,Electronics
+202,Product X101,Home Appliances
+203,Product Y102,Home Appliances
+204,Product Z103,Sports
+205,Product A104,Clothing
+206,Product B105,Groceries
+207,Product C106,Home Appliances
+208,Product D107,Clothing
+209,Product E108,Home Appliances
+210,Product F109,Sports
+211,Product G110,Sports
+212,Product H111,Groceries
+213,Product I112,Sports
+214,Product J113,Home Appliances
+215,Product K114,Clothing
+216,Product L115,Sports
+217,Product M116,Toys
+218,Product N117,Clothing
+219,Product O118,Home Appliances
+220,Product P119,Toys
+221,Product Q120,Sports
+222,Product R121,Clothing
+223,Product S122,Clothing
+224,Product T123,Home Appliances
+225,Product U124,Toys
+226,Product V125,Home Appliances
+227,Product W126,Toys
+228,Product X127,Toys
+229,Product Y128,Groceries
+230,Product Z129,Clothing
+231,Product A130,Toys
+232,Product B131,Toys
+233,Product C132,Electronics
+234,Product D133,Groceries
+235,Product E134,Books
+236,Product F135,Electronics
+237,Product G136,Books
+238,Product H137,Electronics
+239,Product I138,Toys
+240,Product J139,Toys
+241,Product K140,Clothing
+242,Product L141,Home Appliances
+243,Product M142,Clothing
+244,Product N143,Toys
+245,Product O144,Toys
+246,Product P145,Sports
+247,Product Q146,Home Appliances
+248,Product R147,Clothing
+249,Product S148,Toys
+250,Product T149,Clothing
+251,Product U150,Home Appliances
+252,Product V151,Clothing
+253,Product W152,Groceries
+254,Product X153,Clothing
+255,Product Y154,Electronics
+256,Product Z155,Clothing
+257,Product A156,Clothing
+258,Product B157,Home Appliances
+259,Product C158,Books
+260,Product D159,Books
+261,Product E160,Sports
+262,Product F161,Sports
+263,Product G162,Sports
+264,Product H163,Electronics
+265,Product I164,Sports
+266,Product J165,Toys
+267,Product K166,Sports
+268,Product L167,Groceries
+269,Product M168,Toys
+270,Product N169,Groceries
+271,Product O170,Books
+272,Product P171,Clothing
+273,Product Q172,Sports
+274,Product R173,Electronics
+275,Product S174,Toys
+276,Product T175,Sports
+277,Product U176,Sports
+278,Product V177,Sports
+279,Product W178,Books
+280,Product X179,Clothing
+281,Product Y180,Books
+282,Product Z181,Sports
+283,Product A182,Clothing
+284,Product B183,Books
+285,Product C184,Groceries
+286,Product D185,Groceries
+287,Product E186,Clothing
+288,Product F187,Toys
+289,Product G188,Clothing
+290,Product H189,Toys
+291,Product I190,Books
+292,Product J191,Groceries
+293,Product K192,Clothing
+294,Product L193,Sports
+295,Product M194,Home Appliances
+296,Product N195,Books
+297,Product O196,Toys
+298,Product P197,Books
+299,Product Q198,Groceries
+300,Product R199,Home Appliances
+301,Product S200,Books
+302,Product T201,Groceries
+303,Product U202,Clothing
+304,Product V203,Toys
+305,Product W204,Home Appliances
+306,Product X205,Clothing
+307,Product Y206,Sports
+308,Product Z207,Sports
+309,Product A208,Electronics
+310,Product B209,Clothing
+311,Product C210,Books
+312,Product D211,Books
+313,Product E212,Electronics
+314,Product F213,Toys
+315,Product G214,Electronics
+316,Product H215,Groceries
+317,Product I216,Sports
+318,Product J217,Groceries
+319,Product K218,Electronics
+320,Product L219,Home Appliances
+321,Product M220,Toys
+322,Product N221,Sports
+323,Product O222,Sports
+324,Product P223,Toys
+325,Product Q224,Groceries
+326,Product R225,Books
+327,Product S226,Toys
+328,Product T227,Groceries
+329,Product U228,Sports
+330,Product V229,Books
+331,Product W230,Electronics
+332,Product X231,Groceries
+333,Product Y232,Toys
+334,Product Z233,Clothing
+335,Product A234,Clothing
+336,Product B235,Groceries
+337,Product C236,Home Appliances
+338,Product D237,Books
+339,Product E238,Toys
+340,Product F239,Electronics
+341,Product G240,Groceries
+342,Product H241,Electronics
+343,Product I242,Groceries
+344,Product J243,Electronics
+345,Product K244,Clothing
+346,Product L245,Clothing
+347,Product M246,Books
+348,Product N247,Toys
+349,Product O248,Groceries
+350,Product P249,Sports
+351,Product Q250,Home Appliances
+352,Product R251,Books
+353,Product S252,Groceries
+354,Product T253,Electronics
+355,Product U254,Toys
+356,Product V255,Clothing
+357,Product W256,Toys
+358,Product X257,Sports
+359,Product Y258,Electronics
+360,Product Z259,Sports
+361,Product A260,Sports
+362,Product B261,Clothing
+363,Product C262,Toys
+364,Product D263,Groceries
+365,Product E264,Sports
+366,Product F265,Groceries
+367,Product G266,Toys
+368,Product H267,Books
+369,Product I268,Groceries
+370,Product J269,Books
+371,Product K270,Sports
+372,Product L271,Clothing
+373,Product M272,Sports
+374,Product N273,Sports
+375,Product O274,Sports
+376,Product P275,Groceries
+377,Product Q276,Home Appliances
+378,Product R277,Groceries
+379,Product S278,Books
+380,Product T279,Home Appliances
+381,Product U280,Toys
+382,Product V281,Sports
+383,Product W282,Books
+384,Product X283,Toys
+385,Product Y284,Sports
+386,Product Z285,Sports
+387,Product A286,Groceries
+388,Product B287,Sports
+389,Product C288,Home Appliances
+390,Product D289,Toys
+391,Product E290,Electronics
+392,Product F291,Books
+393,Product G292,Home Appliances
+394,Product H293,Clothing
+395,Product I294,Home Appliances
+396,Product J295,Sports
+397,Product K296,Sports
+398,Product L297,Sports
+399,Product M298,Home Appliances
+400,Product N299,Groceries
